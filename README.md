@@ -1,2 +1,2 @@
 # freebasic-counter
-html counter to cgi html pages count
+html counter to cgi html pages count ./cgi-bin/counters?countersname multi counters
